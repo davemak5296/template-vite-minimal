@@ -1,2 +1,5 @@
 node_modules
 dist
+prettier.config.js
+.prettierignore
+vite.config.ts
